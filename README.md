@@ -5,7 +5,7 @@ To start, install the necessary packages:
 ```shell
 $ pip install numpy pandas networkx cmfrec torch torch-geometric torch-sparse torch-scatter plotly jupyter 
 ```
-Link to the Google Colab: [https://colab.research.google.com/drive/1YD5zz2QaAP-jbOzY4mjbG6_X9EcA93lW?usp=sharing](https://colab.research.google.com/drive/1jixebOFNQeMkBAet2tZBlykjuKqhfTqD?usp=drive_link)
+
 
 Le répertoire est structuré comme suit : 
 - Le dossier src contient source .py les scripts pour le modèle LightGCN
